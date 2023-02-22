@@ -8,4 +8,4 @@ num2 = Number(num2)
 
 let num3 = num1 - num2
 
-alert ("sum is: " + num3)
+alert ("The Difference is: " + num3)
